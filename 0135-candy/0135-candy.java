@@ -1,38 +1,32 @@
 class Solution {
     public int candy(int[] ratings) 
     {
-        int n = ratings.length;
-        int[] candies = new int[n];
-
-        Arrays.fill(candies,1);
-
-        boolean updated=true;
-
-        while(updated)
+        int n=ratings.length;
+        int candies=n;
+        int i=1;
+        while(i<n)
         {
-            updated=false;
-            for(int i=1;i<n;i++)
+            if(ratings[i]==ratings[i-1])
             {
-                if(ratings[i]>ratings[i-1] && candies[i] <=candies[i-1])
-                {
-                    candies[i]=candies[i-1]+1;
-                    updated=true;
-                }
+                i++;
+                continue;
             }
-            for(int i=n-2;i>=0;i--)
+            int peak=0;
+            while(i<n && ratings[i]>ratings[i-1])
             {
-                if(ratings[i]>ratings[i+1] && candies[i] <= candies[i+1])
-                {
-                    candies[i]=candies[i+1]+1;
-                    updated=true;
-                }
+                peak++;
+                candies+=peak;
+                i++;
             }
+            int valley=0;
+            while(i<n && ratings[i]<ratings[i-1])
+            {
+                valley++;
+                candies+=valley;
+                i++;
+            }
+            candies-=Math.min(peak,valley);
         }
-        int total=0;
-        for(int candy:candies)
-        {
-            total+=candy;
-        }
-        return total;
+        return candies;
     }
 }
