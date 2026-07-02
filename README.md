@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0057-insert-interval](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0135-candy) |
 | [0992-subarrays-with-k-different-integers](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
 ## Greedy
