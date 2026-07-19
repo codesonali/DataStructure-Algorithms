@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0008-string-to-integer-atoi) |
 | [0257-binary-tree-paths](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0257-binary-tree-paths) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codesonali/DataStructure-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
