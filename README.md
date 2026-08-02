@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0992-subarrays-with-k-different-integers](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0057-insert-interval) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
