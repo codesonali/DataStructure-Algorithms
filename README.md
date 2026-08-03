@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0069-sqrtx) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0173-binary-search-tree-iterator) |
