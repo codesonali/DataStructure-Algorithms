@@ -18,7 +18,7 @@ class Solution {
                 list.add(i);
             }
         }
-        Collections.sort(list);
+        // Collections.sort(list);
         return list;
 
 
