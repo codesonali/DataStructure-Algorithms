@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0992-subarrays-with-k-different-integers](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codesonali/DataStructure-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3731-find-missing-elements](https://github.com/codesonali/DataStructure-Algorithms/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0992-subarrays-with-k-different-integers](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/codesonali/DataStructure-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [3731-find-missing-elements](https://github.com/codesonali/DataStructure-Algorithms/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0435-non-overlapping-intervals) |
+| [3731-find-missing-elements](https://github.com/codesonali/DataStructure-Algorithms/tree/master/3731-find-missing-elements) |
 ## Tree
 |  |
 | ------- |
