@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0057-insert-interval) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Backtracking
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0053-maximum-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0435-non-overlapping-intervals) |
 ## Linked List
 |  |
