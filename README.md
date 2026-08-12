@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0992-subarrays-with-k-different-integers](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codesonali/DataStructure-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/codesonali/DataStructure-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/codesonali/DataStructure-Algorithms/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codesonali/DataStructure-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/codesonali/DataStructure-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Array
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0992-subarrays-with-k-different-integers](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/codesonali/DataStructure-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/codesonali/DataStructure-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/codesonali/DataStructure-Algorithms/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
