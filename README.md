@@ -181,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0018-4sum) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/codesonali/DataStructure-Algorithms/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
