@@ -212,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0229-majority-element-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
