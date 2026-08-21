@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0057-insert-interval) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0135-candy) |
+| [0200-number-of-islands](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0992-subarrays-with-k-different-integers](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0200-number-of-islands) |
 | [0662-maximum-width-of-binary-tree](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
@@ -216,4 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0056-merge-intervals) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
