@@ -245,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/codesonali/DataStructure-Algorithms/tree/master/3904-smallest-stable-index-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
