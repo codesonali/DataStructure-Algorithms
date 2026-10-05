@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0856-score-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codesonali/DataStructure-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0020-valid-parentheses) |
 | [0173-binary-search-tree-iterator](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0173-binary-search-tree-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0856-score-of-parentheses) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/codesonali/DataStructure-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -255,4 +257,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
