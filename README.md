@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0056-merge-intervals) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0229-majority-element-ii) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0018-4sum) |
 | [0344-reverse-string](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0344-reverse-string) |
 ## Database
