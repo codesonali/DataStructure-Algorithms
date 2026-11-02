@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0069-sqrtx) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/codesonali/DataStructure-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/codesonali/DataStructure-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/codesonali/DataStructure-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0435-non-overlapping-intervals) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3731-find-missing-elements](https://github.com/codesonali/DataStructure-Algorithms/tree/master/3731-find-missing-elements) |
 ## Tree
 |  |
