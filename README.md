@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0229-majority-element-ii](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0058-length-of-last-word) |
 | [0257-binary-tree-paths](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0344-reverse-string) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0057-insert-interval) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0435-non-overlapping-intervals) |
