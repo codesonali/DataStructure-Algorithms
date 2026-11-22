@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0856-score-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codesonali/DataStructure-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/codesonali/DataStructure-Algorithms/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Sliding Window
 |  |
 | ------- |
