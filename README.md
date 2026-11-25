@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0069-sqrtx) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -290,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/codesonali/DataStructure-Algorithms/tree/master/3411-maximum-subarray-with-equal-products) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
