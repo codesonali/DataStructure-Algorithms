@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0069-sqrtx) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3360-stone-removal-game](https://github.com/codesonali/DataStructure-Algorithms/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/codesonali/DataStructure-Algorithms/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/codesonali/DataStructure-Algorithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/codesonali/DataStructure-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
@@ -295,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0029-divide-two-integers) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/codesonali/DataStructure-Algorithms/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
