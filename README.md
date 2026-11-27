@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0061-rotate-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Design
 |  |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0018-4sum) |
+| [0061-rotate-list](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0061-rotate-list) |
 | [0344-reverse-string](https://github.com/codesonali/DataStructure-Algorithms/tree/master/0344-reverse-string) |
 ## Database
 |  |
